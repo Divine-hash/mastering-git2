@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Welcome to Git!
 
 - Yo, Johnny hear!
